@@ -43,9 +43,9 @@
 |-----------------------|----------------|------|----------------------|
 | karpov.courses | Аналитик данных | Python, PostgreSQL, Tableu | [Сертификат](https://lab.karpov.courses/certificate/15a0c068-3458-4750-899f-fece67f6c658/) |
 | Нетология | Excel: шаги для оптимизации данных | Excel | [Сертификат](https://netology.ru/backend/api/user/programs/47472/pdf_certificate) |
-| Нетология | Основы анализа данных | Power BI, Datalens | В процессе получения |
-| SQL-Academy | Основы SQL | MySQL | В процессе получения |
+| SQL-Academy | Основы SQL | MySQL | [Сертификат](https://sql-academy.org/check-certificate/6889f42719471b0029aab043?language=ru)|
 | Python-Academy | Основы Python | Python | В процессе получения |
+| Нетология | Основы анализа данных | Power BI, Datalens | В процессе получения |
 
 ---
 
