@@ -10,11 +10,10 @@
 
 ### Обо мне
 
-- :computer: Закончил обучение по программе *аналитика данных* в 2025 году
-- :bar_chart: Практикуюсь в создании **собственных** [пет-проектов](https://github.com/mturov/project_kvartal_zu)
-- :tent: Люблю сплавы и отдых на природе
-- :closed_book: Написал и выпустил свою [книгу](https://ridero.ru/books/todarium/) на крупных онлайн-площадках
-- :e-mail: Связаться со мной можно по [почте](mailto:mixail_turov@mail.ru) или в [tg](https://t.me/jekobi)
+В работе с данными меня вдохновляет возможность находить скрытые закономерности и рассказывать истории на их основе — это как сторителлинг, но с цифрами. Сейчас совершенствую навыки владения стеком, участвую на вебинарах по DA. Помимо анализа, увлекаюсь пешими походами и изучением нарративов в разных продуктах (книги, фильмы, игры), что помогает развивать креативный подход к презентации информации.
+
+### Контакты
+- Связаться со мной можно по [почте](mailto:mixail_turov@mail.ru) или в [Telegram](https://t.me/jekobi)
 
 ### Мои проекты
 | Название проекта | Описание проекта | Стек | Ссылка на проект |
@@ -28,14 +27,8 @@
 
 ### Языки и инструменты
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="pandas" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" title="mysql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickhouse/clickhouse-original.svg" title="clickhouse" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="japuter" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="airflow" width="40" height="40"/>&nbsp;
+![Static Badge](https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=Python) ![Static Badge](https://img.shields.io/badge/PANDAS-white?style=for-the-badge&logo=pandas&logoColor=red) ![Static Badge](https://img.shields.io/badge/NUMPY-white?style=for-the-badge&logo=numpy&logoColor=yellow) ![Static Badge](https://img.shields.io/badge/PLOTLY-white?style=for-the-badge&logo=plotly&logoColor=blue) ![Static Badge](https://img.shields.io/badge/scipy-white?style=for-the-badge&logo=scipy) ![Static Badge](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=red) ![Static Badge](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=black) ![Static Badge](https://img.shields.io/badge/Clickhouse-white?style=for-the-badge&logo=clickhouse&logoColor=blue) ![Static Badge](https://img.shields.io/badge/jupyter%20notebook-white?style=for-the-badge&logo=jupyter)
+![Static Badge](https://img.shields.io/badge/AIRFLOW-white?style=for-the-badge&logo=apacheairflow&logoColor=blue) ![Static Badge](https://img.shields.io/badge/GIT-white?style=for-the-badge&logo=git&logoColor=red) ![Static Badge](https://img.shields.io/badge/TABLEU-white?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/redash-white?style=for-the-badge&logo=redash) ![Static Badge](https://img.shields.io/badge/confluence-white?style=for-the-badge&logo=confluence&logoColor=blue) ![Static Badge](https://img.shields.io/badge/Datalens-white?style=for-the-badge&logoColor=blue)
 
 ### Пройденные курсы
 
