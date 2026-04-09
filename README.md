@@ -32,10 +32,9 @@
 | Название онлайн-школы | Название курса | Стек | Ссылка на сертификат |
 |-----------------------|----------------|------|----------------------|
 | karpov.courses | Аналитик данных | Python, PostgreSQL, Tableu | [Сертификат](https://lab.karpov.courses/certificate/15a0c068-3458-4750-899f-fece67f6c658/) |
+| karpov.courses | Основы Excel и Google Sheets | Excel и Google Sheets | [Сертификат](https://lab.karpov.courses/certificate/fd79f5c2-bca1-41b4-aeac-4d528b00d295/) |
 | Нетология | Excel: шаги для оптимизации данных | Excel | [Сертификат](https://netology.ru/sharing/9f2f47084869cb84c874b7f750af9fb1?utm_source=social&utm_campaign=certificate_lms) |
 | SQL-Academy | Основы SQL | MySQL | [Сертификат](https://sql-academy.org/check-certificate/6889f42719471b0029aab043?language=ru)|
-| Python-Academy | Основы Python | Python | В процессе получения |
-| Нетология | Основы анализа данных | Power BI, Datalens | В процессе получения |
 
 ---
 
